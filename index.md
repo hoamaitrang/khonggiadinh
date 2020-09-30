@@ -70,7 +70,8 @@
  </div>
  <h3 style=" position: absolute; text-align: left; color: white; text-decoration: underline; padding-left:64px; background-color: red; width: 127px">!!!spoil</h3> 
  <div id="allPage">
-  <img id="bookImage"src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/119018921_2700780623525236_2368354867603517721_o.jpg?_nc_cat=104&_nc_sid=8bfeb9&_nc_ohc=x0EkQLLKsgoAX-AKb6z&_nc_ht=scontent.fhan2-4.fna&oh=3260872933c574caa5c1f27bf4e9f2d5&oe=5F7C312D" width="400px">
+  <img id="bookImage"src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/119018921_2700780623525236_2368354867603517721_o.jpg?_nc_cat=104&_nc_sid=8bfeb9&_nc_ohc=x0EkQLLKsgoAX-AKb6z&_nc_ht=scontent.fhan2-4.fna&oh=3260872933c574caa5c1f27bf4e9f2d5&oe=5F7C312D" width="400px">;
+    <a id= "endding" href="https://www.facebook.com/profile.php?id=100007799744330"><h3>More information about me</h3></a>
  <div id="mid">
      <h3> content </h3>
      <ul>
@@ -94,6 +95,6 @@
          <li>`<a id="linkImage" href="https://drive.google.com/drive/folders/1PPL2sQnIWRy9GLZktyPfSDXYFTxmh_LY?usp=sharing">here is my link of photo i think is great</a></li></p>
      </ul></div>
  </div>
- <a id= "endding" href="https://www.facebook.com/profile.php?id=100007799744330"><h3>More information about me</h3></a>
+ 
     </body>
 </html>
